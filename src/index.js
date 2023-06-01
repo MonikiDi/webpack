@@ -1,5 +1,5 @@
 import './reset.scss';
-import './main.scss';
+import './app.scss';
 import './fonts/fonts.scss';
 
 function Carousel(setting) {
